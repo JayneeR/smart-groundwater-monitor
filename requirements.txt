@@ -1,4 +1,1 @@
-numpy
-torch
-optuna
-pytest
+torch\nnumpy\noptuna\npytest\npandas\n
