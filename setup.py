@@ -1,0 +1,1 @@
+from setuptools import setup, find_packages\n\nsetup(\n    name="smart-groundwater-monitor",\n    version="1.0.0",\n    packages=find_packages(),\n    install_requires=open('requirements.txt').read().splitlines(),\n    author="Jaynee Rawal",\n    description="Smart Groundwater Monitor - Professional AI Research Component",\n)\n
